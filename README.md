@@ -1,3 +1,4 @@
+Requires JAVA 8
 # REST
 user1:password
 http://localhost:18080/swagger-ui.html
